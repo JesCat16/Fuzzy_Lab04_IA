@@ -80,5 +80,6 @@ Peso de  2.90
 ![image](https://github.com/user-attachments/assets/0cd4e909-9366-4b29-bbee-3866d925572a)
 
 
-*3. Outras aplicações:*
+*3. Nossas experiencias e Outras aplicações:*
+- Achamos interessante que podemos representar dados vagos de uma maneira precisa por meio da lógica fuzzy. Observamos que ao utilizar o valor máximo nas entradas não necessariamente significa que serão os maiores valores nas saídas. Isso se deve pelo fato de utilizar a centroide como resposta.
 - Acreditamos que a lógica fuzzy poderia muito bem ser aplicada para o desenvolvimento de sistemas controladores de ar condicionado, por exemplo ajustando a temperatura com base nos valores de calor como gelado, agradável e quente.
