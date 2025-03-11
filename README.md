@@ -1,6 +1,6 @@
 # Fuzzy_Lab04_IA
 
-*1.Utilizando apenas os dados de calorias diarias: *
+*1.Utilizando apenas os dados de calorias diarias:*
 
 - Gráfico das calorias
   
@@ -11,10 +11,29 @@
 ![image](https://github.com/user-attachments/assets/50b714bb-6ede-419f-8d09-59cbb9c5371d)
 
 - Resultados das extremidades:
-
   
+Colocando tudo no maximo alto:
 
-*2.Utilizando dados de calorias diarias e horas semanais de exercicio fisico: *
+Caloria 10 
+<br>
+Peso de 11.47
+
+![image](https://github.com/user-attachments/assets/9ff88661-8336-4427-bfc5-8b4126d0b0d5)
+
+![image](https://github.com/user-attachments/assets/9ecd3e6c-99ec-4b92-a8fc-4deb90d21a6c)
+
+Colocando tudo no minimo:
+<br>
+Caloria 0 
+<br>
+Peso de  2.53
+
+![image](https://github.com/user-attachments/assets/f1a06bbe-a53c-4af8-aaba-d75135c192e0)
+
+
+![image](https://github.com/user-attachments/assets/1d824eaf-6f11-454b-b138-dd40f413b44a)
+
+*2.Utilizando dados de calorias diarias e horas semanais de exercicio fisico:*
 
 - Gráfico das calorias
   
@@ -31,7 +50,9 @@
 Colocando tudo no mais baixo:
 
 Caloria 1 
+<br>
 Atividade Fisica 1 
+<br>
 Peso de  2.90
 
 ![image](https://github.com/user-attachments/assets/18b798ca-e93f-424b-b116-b8c79d69d06e)
@@ -41,5 +62,5 @@ Peso de  2.90
 ![image](https://github.com/user-attachments/assets/0cd4e909-9366-4b29-bbee-3866d925572a)
 
 
-*3. Outras aplicações: *
+*3. Outras aplicações:*
 - Acreditamos que a lógica fuzzy poderia muito bem ser aplicada para o desenvolvimento de sistemas controladores de ar condicionado, por exemplo ajustando a temperatura com base nos valores de calor como gelado, agradável e quente.
