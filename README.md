@@ -12,7 +12,7 @@
 
 - Resultados das extremidades:
   
-Colocando tudo no maximo alto:
+Colocando tudo no mais alto:
 
 Caloria 10 
 <br>
@@ -41,12 +41,30 @@ Peso de  2.53
 
 - Gráfico de horas semanais de exercicio fisico
 
+![image](https://github.com/user-attachments/assets/34da7f9a-5f2a-4f46-a0f9-f7d4db39d8a8)
+
 
 - Gráfico dos pesos:
   
 ![image](https://github.com/user-attachments/assets/50b714bb-6ede-419f-8d09-59cbb9c5371d)
 
 - Resultados das extremidades:
+  
+Colocando tudo no mais alto:
+<br>
+Caloria 10 
+<br>
+Atividade Fisica 10 
+<br>
+Peso de  7.00
+
+![image](https://github.com/user-attachments/assets/f22133ba-db00-425b-957d-cbe7f283843b)
+
+![image](https://github.com/user-attachments/assets/45f3faaf-e7de-44a7-99b1-e9c57c09d692)
+
+![image](https://github.com/user-attachments/assets/9ddcb2dd-e29a-452d-a839-b08ca8283864)
+
+
 Colocando tudo no mais baixo:
 
 Caloria 1 
