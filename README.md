@@ -1,2 +1,45 @@
 # Fuzzy_Lab04_IA
-Laboratório 4 sobre lógica fuzzy
+
+*1.Utilizando apenas os dados de calorias diarias: *
+
+- Gráfico das calorias
+  
+![image](https://github.com/user-attachments/assets/89bb396d-4c22-44ce-80cd-2fd7f93397c2)
+
+- Gráfico dos pesos:
+  
+![image](https://github.com/user-attachments/assets/50b714bb-6ede-419f-8d09-59cbb9c5371d)
+
+- Resultados das extremidades:
+
+  
+
+*2.Utilizando dados de calorias diarias e horas semanais de exercicio fisico: *
+
+- Gráfico das calorias
+  
+![image](https://github.com/user-attachments/assets/89bb396d-4c22-44ce-80cd-2fd7f93397c2)
+
+- Gráfico de horas semanais de exercicio fisico
+
+
+- Gráfico dos pesos:
+  
+![image](https://github.com/user-attachments/assets/50b714bb-6ede-419f-8d09-59cbb9c5371d)
+
+- Resultados das extremidades:
+Colocando tudo no mais baixo:
+
+Caloria 1 
+Atividade Fisica 1 
+Peso de  2.90
+
+![image](https://github.com/user-attachments/assets/18b798ca-e93f-424b-b116-b8c79d69d06e)
+
+![image](https://github.com/user-attachments/assets/a2ee97b4-3ffc-48fd-8487-a10bdcf9d2fc)
+
+![image](https://github.com/user-attachments/assets/0cd4e909-9366-4b29-bbee-3866d925572a)
+
+
+*3. Outras aplicações: *
+- Acreditamos que a lógica fuzzy poderia muito bem ser aplicada para o desenvolvimento de sistemas controladores de ar condicionado, por exemplo ajustando a temperatura com base nos valores de calor como gelado, agradável e quente.
